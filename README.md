@@ -58,8 +58,8 @@
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Igor-A-Souza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-A-Souza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=Igor-A-Souza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Igor-A-Souza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages" />
 </p>
 
 ---

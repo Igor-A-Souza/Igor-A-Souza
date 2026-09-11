@@ -55,6 +55,33 @@
 
 ---
 
+## 📚 Atualmente estudando
+
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🐍 Python
+* 🔧 Git e GitHub
+* 💻 Desenvolvimento Web
+* 🧠 Lógica de Programação
+* 🏗️ Desenvolvimento de Sistemas
+
+---
+
+## 🚀 Projetos
+
+### 🛒 E-commerce
+
+Projeto desenvolvido em equipe durante os estudos de desenvolvimento web.
+
+**Tecnologias utilizadas:**
+
+HTML • CSS • JavaScript • Git • GitHub
+
+🔗 [Ver projeto no GitHub](https://github.com/Caua-nazario/e-commerce)
+
+---
+
 ## 📊 Estatísticas
 
 <p align="left">

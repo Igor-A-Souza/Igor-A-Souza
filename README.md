@@ -91,6 +91,3 @@ HTML • CSS • JavaScript • Git • GitHub
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Igor-A-Souza&label=Perfil+visitantes&color=brightgreen" alt="Contador de visitas" />
-</p>
